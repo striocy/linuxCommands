@@ -7,3 +7,6 @@ Some Linux management commands:
 
 
 2.安装 mariaDB     sudo apt install mariadb-server mariadb-client
+
+
+3.登入mariaDB     mysql -u root
